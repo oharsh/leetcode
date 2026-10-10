@@ -6,8 +6,8 @@ using namespace std;
 // @leet start
 class Solution {
 public:
-    string tictactoe(vector<vector<int>>& moves) {
-        
-    }
+  bool isdone(vector<vector<int>> &moves){vector < vector
+
+  } string tictactoe(vector<vector<int>> &moves) {}
 };
 // @leet end
